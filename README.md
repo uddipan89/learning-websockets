@@ -7,21 +7,34 @@ This is to learn principles of websockets. Implementing them and building on top
 This repository is where I document my learning process for [Websockets].
 
 ## Table of Contents
-- [Module 1: Introduction to [Subtopic]]
+- [Module 1: Introduction to [Websockets]]
 - [Module 2: [Another Subtopic]]
 - [Key Concepts Learned]
 - [Resources]
 
 ---
 
-## Module 1: Introduction to [Subtopic]
+## Module 1: Introduction to [Websockets]
 
 **Date Started:** 2025-04-20
 
 **Date Completed:** YYYY-MM-DD (Optional)
 
 * **Key Concepts:**
+  
     * What are websockets and Why are Websockets used?: Brief explanation or definition.
+      - Think of regular web communication like sending a letter: you send a request (the letter),
+        and the server sends back a response (the reply). Once you get the reply, that connection is pretty much done.
+      - WebSockets are different. Imagine it's like having a constant phone call
+        open between your browser and the server. Once the "call" (connection) is
+        established, both sides can send messages back and forth instantly,
+        without having to make a new request every single time.
+      - So, instead of constantly asking "Hey, anything new?" (like with regular web requests), the server can just push updates to you as soon as they
+        happen, and you can send information back just as quickly. This makes things like live chats, real-time games, and instant notifications possible
+        without constant refreshing
+      - Intrusively put, WebSockets keep the lines of communication wide open and buzzing with activity once they're set up
+
+
     * [Concept 2]: Another important point.
     * ...
 
