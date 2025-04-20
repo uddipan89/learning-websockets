@@ -16,11 +16,12 @@ This repository is where I document my learning process for [Websockets].
 
 ## Module 1: Introduction to [Subtopic]
 
-**Date Started:** YYYY-MM-DD
+**Date Started:** 2025-04-20
+
 **Date Completed:** YYYY-MM-DD (Optional)
 
 * **Key Concepts:**
-    * [Concept 1]: Brief explanation or definition.
+    * What are websockets and Why are Websockets used?: Brief explanation or definition.
     * [Concept 2]: Another important point.
     * ...
 
