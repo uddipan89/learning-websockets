@@ -41,6 +41,27 @@ This repository is where I document my learning process for [Websockets].
 
 *(Repeat the structure above)*
 
+**Date Started:** YYYY-MM-DD
+**Date Completed:** YYYY-MM-DD (Optional)
+
+* **Key Concepts:**
+    * [Concept 1]: Brief explanation or definition.
+    * [Concept 2]: Another important point.
+    * ...
+
+* **Code Examples:** (Link to Colab notebooks here - see point 2)
+    * [`Module1_Notebook.ipynb`](link-to-notebook-on-github) - [Brief description of what the notebook covers]
+    * [`Another_Example.ipynb`](link-to-another-notebook) - [Brief description]
+
+* **Resources Used:**
+    * [Book Title/Course Name] - [Link to resource]
+    * [Article/Blog Post Title] - [Link]
+    * [Video Title] - [Link]
+
+* **Challenges/Notes:** Any difficulties you faced, questions you still have, or personal notes.
+
+---
+
 ---
 
 ## Key Concepts Learned Overall
